@@ -1,0 +1,6 @@
+{
+  "name": "ContentFlow AI",
+  "description": "A smart content management platform to generate, schedule, organize, and analyze AI-powered marketing and social media content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
